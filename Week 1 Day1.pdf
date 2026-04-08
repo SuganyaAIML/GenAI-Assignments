@@ -1,0 +1,59 @@
+Artificial Intelligence, Machine Learning, and Generative AI: Day 1 Study Guide
+
+This study guide provides a comprehensive overview of the fundamental concepts of Artificial Intelligence (AI), Machine Learning (ML), Deep Learning (DL), and Generative AI (Gen AI) based on the Day 1 agenda. It covers the evolution of these technologies, their specific types, and practical use cases.
+
+Short-Answer Quiz
+
+Instructions: Answer the following questions in 2 to 3 sentences based on the information provided in the source context.
+
+1. How does Artificial Intelligence mimic human behavior in the context of navigation tools like Google Maps?
+2. What are the two primary components required for AI systems to function effectively?
+3. In the heart disease prediction use case, how is data typically split for the model development process?
+4. What is the primary difference between the outputs of Linear Regression and Classification?
+5. How does Unsupervised Learning differ from Supervised Learning in terms of data labeling?
+6. What differentiates Deep Learning from standard Machine Learning?
+7. What is the fundamental difference between the core objectives of Machine Learning and Generative AI?
+8. What does the acronym GPT stand for, and what are its primary output formats?
+9. Describe the technical progression between GPT-4 and GPT-5 as mentioned in the text.
+10. What is a "Multimodal" system in the context of AI?
+
+Answer Key
+
+1. How does Artificial Intelligence mimic human behavior in the context of navigation tools like Google Maps? AI mimics human behavior by analyzing millions of records, including current traffic density and historical data, to provide solutions. It predicts the shortest routes and estimated travel times for specific modes of transport and destinations, similar to how a person would plan a trip.
+2. What are the two primary components required for AI systems to function effectively? The two essential components for AI are data and models. Data provides the raw information—often ranging from thousands to trillions of records—while models (such as ML or DL models) process this data to generate predictions or content.
+3. In the heart disease prediction use case, how is data typically split for the model development process? For heart disease prediction using retinal images, the data is split into an 80/20 ratio. 80% of the data is utilized for training the model, while the remaining 20% is reserved for testing and validation to ensure accuracy.
+4. What is the primary difference between the outputs of Linear Regression and Classification? Linear Regression produces numerical or number-based outputs, such as predicting home purchase prices or the number of defects. Classification produces categorical outputs, such as a "Yes" or "No" prediction for the risk of a heart attack.
+5. How does Unsupervised Learning differ from Supervised Learning in terms of data labeling? Supervised Learning utilizes labeled data, such as star ratings or "likes" to determine content preferences. In contrast, Unsupervised Learning works with unlabeled data, focusing on behavior and collaborative filtering without explicit user feedback like comments.
+6. What differentiates Deep Learning from standard Machine Learning? Deep Learning is a subset of Machine Learning that utilizes neural networks and processes significantly larger datasets, ranging from millions to trillions of records. While standard ML is predictive, DL enhances this capability by incorporating complex neural architectures.
+7. What is the fundamental difference between the core objectives of Machine Learning and Generative AI? Machine Learning is primarily "Predictive AI," focused on forecasting outcomes based on historical data. Generative AI is "Generative" rather than predictive, focusing on the creation of new content such as text, images, audio, or video.
+8. What does the acronym GPT stand for, and what are its primary output formats? GPT stands for Generative Pretrained Transformer. Its primary output formats include text, images, audio, and video, and it is capable of generating code across all domains.
+9. Describe the technical progression between GPT-4 and GPT-5 as mentioned in the text? The progression involves a significant increase in complexity and scale, with GPT-4 containing between 96 and 120 layers. GPT-5 is more advanced, featuring 190 layers and 120 billion parameters.
+10. What is a "Multimodal" system in the context of AI? A multimodal system is a versatile AI model that can accept and process multiple types of input simultaneously. These inputs include images, text, and video.
+
+Essay Questions
+
+Instructions: Use the source context to develop comprehensive responses to the following prompts.
+
+1. The Role of Data in AI Evolution: Discuss how the volume of data—from thousands to trillions of records—determines the selection between Machine Learning, Deep Learning, and Generative AI.
+2. Predictive AI Methodology: Explain the end-to-end process of developing a predictive model for heart disease, including data collection, cleansing, model selection (specifically CNNs), and the training/testing phase.
+3. Supervised vs. Unsupervised Learning Models: Compare and contrast Supervised and Unsupervised learning using the examples of real estate pricing, heart attack risk classification, and collaborative filtering.
+4. The Anatomy of Generative AI: Analyze the structure and function of Generative Pretrained Transformers (GPT), focusing on the roles of service providers, chat agents, and the significance of layers and parameters.
+5. Practical Applications of AI Predictions: Evaluate how AI uses historical data and millions of records to perform daily tasks, such as weather forecasting and traffic navigation, and how these mimic human decision-making.
+
+Glossary of Key Terms
+
+Term	Definition
+Artificial Intelligence (AI)	Technology where a machine mimics human behavior to perform tasks or solve problems.
+Classification	A type of Supervised Learning where the output is categorized into specific labels, such as "Yes" or "No."
+CNN (Convolutional Neural Network)	A specific model type used to read and analyze images, such as retinal scans for medical predictions.
+Deep Learning (DL)	A subset of Machine Learning that combines vast amounts of data (millions to trillions of records) with neural networks.
+Generative AI (Gen AI)	A subset of Deep Learning that focuses on generating new content (text, image, audio, video) rather than just making predictions.
+GPT	Generative Pretrained Transformer; a model pretrained with massive datasets across all fields to generate content and code.
+Linear Regression	A type of Supervised Learning where the output is a numerical value, commonly used in real estate or defect prediction.
+LLM	Large Language Model; refers to the anatomy and internal working of advanced generative systems.
+Machine Learning (ML)	A subset of AI focused on predictive outcomes using datasets ranging from 1,000 to millions of records.
+Multimodal	The capability of a model to accept and process various input types, including text, image, or video.
+Neural Networks	The architectural foundation of Deep Learning that allows for processing vast, complex datasets.
+Parameters	Variables in a model (e.g., the 120 billion parameters in GPT-5) that help define its complexity and capabilities.
+Supervised Learning	A type of Machine Learning that uses labeled data or categories to train models.
+Unsupervised Learning	A type of Machine Learning that uses unlabeled data to identify patterns based on behavior or collaborative filtering.
