@@ -1,0 +1,61 @@
+MultiModels in Grog
+
+Reasoning Models
+1. openai/gpt-oss-120b
+2. openai/gpt-oss-20b
+3. qwen/qwen3-32b
+
+Text To Speech
+1.canopylabs/orpheus-v1-english
+2.canopylabs/orpheus-arabic-saudi
+
+Vision Models
+1.meta-llama/llama-4-scout-17b-16e-instruct
+
+Multilingual Models
+1.openai/gpt-oss-120b
+2.openai/gpt-oss-20b
+3.meta-llama/llama-4-scout-17b-16e-instruct
+4.llama-3.3-70b-versatile
+5.whisper-large-v3
+
+Safety and Content Moderation
+1.openai/gpt-oss-safeguard-20b
+
+Speech To Text
+1.whisper-large-v3
+2.whisper-large-v3-turbo
+
+Text To Text 
+1.openai/gpt-oss-120b
+2.openai/gpt-oss-20b
+3.meta-llama/llama-4-scout-17b-16e-instruct
+4.llama-3.3-70b-versatile
+
+Function calling /Tool Use
+1.openai/gpt-oss-120b
+2.openai/gpt-oss-20b
+3.meta-llama/llama-4-scout-17b-16e-instruct
+4.qwen/qwen3-32b
+
+Model 1: 
+openai/gpt-oss-120b
+Context Window:131,072
+Input token cost:$0.15 input
+Output token cost: $0.60 output
+
+Model 2: 
+GPT 5.4
+Context Window:
+Short context:
+input cost: $2.50
+Output cost:$15
+Long context:
+Input cost: $5
+Output cost: $22.50
+
+Model 3:
+llama-3.1-8b-instant
+Context Window: 131,072
+Input cost: $0.05 input
+Output cost: $0.08 output
